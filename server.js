@@ -1,6 +1,3 @@
-// Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)
-//
-
 const express = require("express");
 const chalk = require("chalk");
 const morgan = require("morgan");
